@@ -1,6 +1,8 @@
 import 'dart:io' show ContentType, HttpHeaders;
 
 import 'package:sync_http/sync_http.dart';
+import 'package:testing.web.dart.common/stack_trace_header.dart';
+import 'package:testing.web.dart.common/test_case.dart';
 
 import '../common/request.dart';
 import '../common/request_client.dart';

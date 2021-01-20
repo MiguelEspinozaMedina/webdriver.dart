@@ -1,6 +1,8 @@
 import 'dart:async';
 import 'dart:html';
 
+import 'package:testing.web.dart.common/stack_trace_header.dart';
+import 'package:testing.web.dart.common/test_case.dart';
 import 'package:webdriver/support/async.dart';
 
 import '../common/request.dart';
